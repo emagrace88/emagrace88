@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Emmanuela
 - 👀 I’m interested in Data analytics, User Interface design, and developping my skills in Python & R. 
-- 🌱 I’m currently learning SQL & Python. 
+- 🌱 I’m currently improving my level of SQL, and Tableau. praticing to be a Tableau Master. 
 - 💞️ I’m looking to collaborate on diverse projects in Sales, Marketing, Supply Chain, Finance & HR. 
 - 📫 You can reach me via Linkedin : @Emmanuela Djetti
 
